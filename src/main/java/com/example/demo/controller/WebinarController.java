@@ -3,7 +3,7 @@ import com.example.demo.dao.IwebinarDao;
 import com.example.demo.model.WebinarModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-;
+
 
 import java.util.List;
 

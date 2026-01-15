@@ -1,7 +1,7 @@
 
 
 package com.example.demo.controller;
-;
+
 import com.example.demo.model.Taux;
 import com.example.demo.service.ITauxService;
 import org.springframework.beans.factory.annotation.Autowired;
